@@ -1,0 +1,11 @@
+Package: treatmentData
+Type: Package
+Title: Treatment Plots
+Version: 0.1
+Date: 2017-11-27
+Author: Peter Dutton
+Maintainer: Peter Dutton <peter.dutton@csm.ox.ac.uk>
+Description: Creates publication ready table and graphs from treatment data.
+License: GPL-2
+Imports: methods
+RoxygenNote: 6.0.1
